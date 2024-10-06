@@ -1,0 +1,125 @@
+body {
+    background-color: antiquewhite;
+    color: white;
+}
+
+.name {
+    font-family: "Architects Daughter", system-ui;
+    font-size: x-large;
+    text-align: center;
+    background-color: darkseagreen;
+    padding-left: 7px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-bottom: 4px;
+}
+
+.summary {
+    background-color: darkseagreen;
+    padding: 7px;
+}
+
+.projects {
+    background-color: #C58940;
+    padding: 7px;
+}
+
+.education {
+    background-color: rgb(0, 86, 117);
+    padding: 7px; 
+}
+
+.work-experience {
+    background-color: darkseagreen;
+    padding: 7px;    
+}
+
+.skills {
+    background-color: #C58940;
+    padding: 7px;   
+}
+
+.awards-certifications {
+    background-color: rgb(0, 86, 117);
+    padding: 7px;  
+}
+
+.other {
+    background-color: darkseagreen;
+    padding: 7px;
+}
+
+.hobbies {
+    font-size: xx-large;    
+    font-family: cursive;
+    background-color: #C58940;
+    padding: 7px;
+}
+
+.contacts {
+    font-size: xx-large;
+    background-color: #C58940;
+    padding: 7px;
+}
+
+#h1-contacts {
+    margin-top: 0px;
+    text-align: center;
+    font-size: 50px;
+    background-color: darkseagreen;
+    padding: 10px 7px;
+}
+
+#project-anchor {
+    color: white;
+}
+
+#anchor-other {
+    color: white;
+}
+
+#name-img {
+    border: 5px solid white;
+    margin-left: 39%;
+    width: 300px;
+    height: 300px;
+}
+
+#h2-hobbies {
+    font-family: "Caveat", cursive;
+    font-size: 55px;
+    text-align: center;
+    background-color: darkseagreen;
+    padding-left: 7px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-family: "Caveat", cursive;
+    font-size: xx-large;
+}
+
+p {
+    font-size: 25px;
+    font-family: monospace;
+}
+
+#p-summary {
+    font-size: 23px;
+}
+
+ul {
+    font-size: 25px;
+    font-family: monospace;
+}
+
+#li-education-awards-certifications {
+    font-family: cursive;
+}
+
+a {
+    font-family: "Architects Daughter", system-ui;
+}
